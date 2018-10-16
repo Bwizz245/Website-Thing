@@ -1,3 +1,15 @@
+:root {
+  --main-color: #b600c1;
+}
+
 .main {
   background-color: #EEEEEE;
+}
+
+.navbar .theme-defualt {
+  background-color: var(main-color);
+}
+
+h1 {
+  color: var(main-color);
 }
